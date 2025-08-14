@@ -145,22 +145,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⚠️ Disclaimer
 
-This tool is not affiliated with or endorsed by Oura Health Oy. It uses Oura's official API and is intended for personal use only. Always consult healthcare professionals for medical advice.
-
-## 🔗 Links
-
-- **Oura API Documentation**: [cloud.ouraring.com/docs](https://cloud.ouraring.com/docs)
-- **Issues & Support**: [GitHub Issues](https://github.com/yourusername/OuraDataArchive/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/OuraDataArchive/discussions)
-
-## 📞 Contact
-
-For questions about this project or API access, please [open an issue](https://github.com/yourusername/OuraDataArchive/issues) or contact [your-email@example.com](mailto:your-email@example.com).
-
----
-
-⭐ **Found this useful?** Please star the repository and share it with other Oura Ring users!
-
-🐛 **Found a bug?** Please report it in our [issue tracker](https://github.com/yourusername/OuraDataArchive/issues).
-
-💡 **Have an idea?** We'd love to hear your suggestions in [discussions](https://github.com/yourusername/OuraDataArchive/discussions).
+This tool is not affiliated with or endorsed by Oura Health. It uses Oura's official API and is intended for personal use only. Always consult healthcare professionals for medical advice.
